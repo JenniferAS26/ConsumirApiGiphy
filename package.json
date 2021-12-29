@@ -1,0 +1,25 @@
+{
+  "name": "consumirapigiphy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferAS26/ConsumirApiGiphy.git"
+  },
+  "keywords": [
+    "API",
+    "Asincronismo",
+    "Giphy"
+  ],
+  "author": "Jennifer Alarcon Serna <jenniferalarconserna@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JenniferAS26/ConsumirApiGiphy/issues"
+  },
+  "homepage": "https://github.com/JenniferAS26/ConsumirApiGiphy#readme"
+}
